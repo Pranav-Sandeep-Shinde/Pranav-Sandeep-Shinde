@@ -7,9 +7,16 @@ I am a passionate and dedicated Software Developer with a keen interest in build
 
 🌱 Currently exploring Web Development technologies.
 
-🙇‍♀️ Currently exploring Cloud Technologies.
+🙇‍♀️ Currently learning Cloud Technologies.
 
 🤝 Let's collaborate on latest web projects.
+
+📚 Always learning and sharing knowledge with the community.
+
+💬 Ask me about React,MongoDB,HTML,CSS,JS,and Node.js
+
+🔗 Feel free to connect me at ss36507703@gmail.com
+
 
 <h3 align="center">📐 My Skill Set</h3>
 
@@ -45,8 +52,4 @@ I am a passionate and dedicated Software Developer with a keen interest in build
 </p>
 
 
-📚 Always learning and sharing knowledge with the community.
 
-💬 Ask me about React,MongoDB,HTML,CSS,JS,and Node.js
-
-🔗 Feel free to connect me at ss36507703@gmail.com
