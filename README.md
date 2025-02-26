@@ -18,7 +18,8 @@ I am a passionate and dedicated Software Developer with a keen interest in build
 🔗 Feel free to connect me at ss36507703@gmail.com
 
 
-<h3 align="center">📐 My Skill Set</h3>
+<h3 align="center">📐 Skills and Technologies </h3>
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
